@@ -11,3 +11,7 @@ print(b)
 c = np.cos(np.pi/2)
 
 print(c)
+
+d = np.arccos(np.pi/2)
+
+print(d)
